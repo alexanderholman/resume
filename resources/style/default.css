@@ -1,0 +1,160 @@
+body {
+  padding: 50px 0;
+  font-family: 'Myriad W01 Regular';
+  font-size: 16px; }
+  @media only screen and (max-width: 768px) {
+    body {
+      padding: 20px 0; } }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Myriad W01 Bd Cnd'; }
+  h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
+    font-size: 0.72em; }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: inherit; }
+
+h1 {
+  font-size: 1.5625rem; }
+
+h2 {
+  font-size: 1.25rem; }
+
+h3 {
+  font-size: 1.125rem; }
+
+h4 {
+  font-size: 1.0rem; }
+
+h5 {
+  font-size: 1.0rem; }
+
+h5 {
+  font-size: 1.0rem; }
+
+p {
+  margin: 0.25rem 0; }
+
+hr {
+  border-color: transparent;
+  border-width: 0;
+  margin: 30px 0; }
+
+section {
+  /*&:first-child {
+    h1 {
+      border-top: solid 1px #373a3c;
+      padding-top: 30px;
+    }
+  }*/ }
+  section h1 {
+    display: inline-block;
+    margin-bottom: 30px;
+    border-bottom: solid 1px #373a3c;
+    padding-bottom: 15px; }
+  section hr {
+    border-color: rgba(55, 58, 60, 0.1);
+    border-width: 1px; }
+
+a {
+  color: inherit; }
+  a:hover {
+    text-decoration: none; }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+aside#sidebar {
+  position: sticky;
+  top: 50px; }
+  @media only screen and (max-width: 768px) {
+    aside#sidebar {
+      position: static;
+      top: 0; } }
+aside .title {
+  margin: 20px 0 10px; }
+aside .contact {
+  margin: 10px 0; }
+  aside .contact .fa {
+    display: inline-block;
+    width: 20px;
+    text-align: center; }
+  aside .contact a {
+    color: inherit; }
+  aside .contact-phone .fa, aside .contact-location .fa {
+    line-height: 1rem;
+    vertical-align: middle;
+    margin-top: -3px; }
+  aside .contact-phone .fa {
+    font-size: 1.5625rem; }
+  aside .contact-location .fa {
+    font-size: 1.125rem; }
+aside .social {
+  clear: both;
+  margin: 15px 0; }
+
+.social {
+  display: flex;
+  font-size: 25px;
+  justify-content: space-between; }
+  .social-link {
+    display: inline-block;
+    opacity: 0.5; }
+    .social-link:hover {
+      opacity: 1; }
+
+.fa-github {
+  color: #171516; }
+.fa-stack-overflow {
+  color: #f48024; }
+.fa-codepen {
+  color: #0ebeff; }
+.fa-linkedin {
+  color: #0077b5; }
+.fa-twitter {
+  color: #1da1f2; }
+.fa-facebook {
+  color: #3b5998; }
+.fa-google-plus {
+  color: #dd4b39; }
+.fa-youtube {
+  color: #cd201f; }
+
+.padding {
+  padding: 15px; }
+
+.margin-normal {
+  margin: 15px; }
+  .margin-normal-vertical {
+    margin-top: 15px;
+    margin-bottom: 15px; }
+    .margin-normal-vertical-top {
+      margin-top: 15px; }
+    .margin-normal-vertical-bottom {
+      margin-bottom: 15px; }
+  .margin-normal-horzontal {
+    margin-right: 15px;
+    margin-left: 15px; }
+    .margin-normal-horzontal-right {
+      margin-right: 15px; }
+    .margin-normal-horzontal-left {
+      margin-left: 15px; }
+.margin-large {
+  margin: 20px; }
+  .margin-large-vertical {
+    margin-top: 20px;
+    margin-bottom: 20px; }
+    .margin-large-vertical-top {
+      margin-top: 20px; }
+    .margin-large-vertical-bottom {
+      margin-bottom: 20px; }
+  .margin-large-horzontal {
+    margin-right: 20px;
+    margin-left: 20px; }
+    .margin-large-horzontal-right {
+      margin-right: 20px; }
+    .margin-large-horzontal-left {
+      margin-left: 20px; }
+
+/*# sourceMappingURL=default.css.map */

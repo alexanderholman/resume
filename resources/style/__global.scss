@@ -1,0 +1,85 @@
+body {
+  padding: 50px 0;
+  font-family:'Myriad W01 Regular';
+  font-size: 16px;
+  @media only screen and (max-width: 768px) {
+    padding: 20px 0;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:'Myriad W01 Bd Cnd';
+  span {
+    font-size: 0.72em;
+  }
+  a {
+    color: inherit;
+  }
+}
+
+h1 {
+  font-size: 1.5625rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+h3 {
+  font-size: 1.125rem;
+}
+
+h4 {
+  font-size: 1.0rem;
+}
+
+h5 {
+  font-size: 1.0rem;
+}
+
+h5 {
+  font-size: 1.0rem;
+}
+
+p {
+  margin: 0.25rem 0;
+}
+
+hr {
+  //border-color: #373a3c;
+  border-color: transparent;
+  border-width: 0;
+  margin: 30px 0;
+}
+
+section {
+  h1 {
+    display: inline-block;
+    margin-bottom: 30px;
+    border-bottom: solid 1px #373a3c;
+    padding-bottom: 15px;
+  }
+  hr {
+    border-color: rgba(#373a3c, 0.1);
+    border-width: 1px;
+  }
+  /*&:first-child {
+    h1 {
+      border-top: solid 1px #373a3c;
+      padding-top: 30px;
+    }
+  }*/
+}
+
+a {
+  color: inherit;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

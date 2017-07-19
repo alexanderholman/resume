@@ -1,0 +1,19 @@
+.social {
+  display: flex;
+  font-size: 25px;
+  justify-content: space-between;
+  &-link {
+    display: inline-block;
+    opacity: 0.5;
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+.fa-{
+  @each $social, $colour in $socials {
+    &#{$social} {
+      color: $colour;
+    }
+  }
+}

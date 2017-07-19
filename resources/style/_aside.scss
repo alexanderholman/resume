@@ -1,0 +1,50 @@
+aside {
+  &#sidebar {
+    position: sticky;
+    top: 50px;
+    @media only screen and (max-width: 768px) {
+      position: static;
+      top: 0;
+    }
+  }
+  .title {
+    margin: 20px 0 10px;
+  }
+  img {
+  }
+  .contact {
+    margin: 10px 0;
+    .fa {
+      display: inline-block;
+      width: 20px;
+      text-align: center;
+    }
+    a {
+      color: inherit;
+    }
+    &-phone, &-location {
+      .fa {
+        line-height: 1rem;
+        vertical-align: middle;
+        margin-top: -3px;
+      }
+    }
+    &-phone {
+      .fa {
+        font-size: 1.5625rem;
+      }
+    }
+    &-email {
+      .fa {}
+    }
+    &-location {
+      .fa {
+        font-size: 1.125rem;
+      }
+    }
+  }
+  .social {
+    clear: both;
+    margin: 15px 0;
+  }
+}
