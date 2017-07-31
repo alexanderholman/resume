@@ -1,2 +1,11 @@
 error
 google*.html
+chained-holman.org.uk.pem
+domain-holman.org.uk.csr
+domain-holman.org.uk.key
+lets-encrypt-x3-cross-signed.pem
+letsencrypt-nosudo/
+signed-holman.org.uk.crt
+user.key
+user.pub
+well-known/

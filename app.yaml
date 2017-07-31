@@ -4,9 +4,20 @@ api_version: 1
 handlers:
 - url: /
   script: index.php
+  secure: always
 - url: /index.html
   script: index.php
+  secure: always
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+  secure: always
 - url: /resources
   static_dir: resources
+  secure: always
 - url: /assets
   static_dir: assets
+  secure: always
+- url: /.well-known
+  static_dir: well-known
+  secure: always
