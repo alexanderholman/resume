@@ -29,7 +29,7 @@ I also started to provide hosting services, which involved a small amount of Lin
 I also started to get more involved in project management using a team when outsourcing design work to people far most experienced than I.
 
 * Designed and implemented systems to client specification, consistently delivering on time and within budget.
-* Manually managed web and email hosting achieving a 100% uptime for the entirety of service’s availability.
+* Manually managed web and email hosting achieving a 100% uptime for the entirety of serviceâ€™s availability.
 
 Technologies: Python, Flask, PHP, MySQL, TS, Angular, JS, SASS, HTML5, CSS3, Debian, NGINX, Postfix, MariaDB, Bash.
 
@@ -40,7 +40,7 @@ Mainly front-end work, but full stack when required. Worked with some large clie
 I have vastly increased my skills in server administration (Apache, NGINX, MySQL, remote management and AWS to name a few places where I have seen improvement) and Bash scripting, under the eyes of some very knowledgeable guys.
 
 * Played a vital role in the creation of ~20 bespoke e-commerce systems in both front-end lead and back-end roles for companies such as LSLPS, Flogas, Nutella, Kinder and a number of primary and secondary schools. 
-* Lead the development of new mobile application offerings, developing the Evosite’s first native applications.
+* Lead the development of new mobile application offerings, developing the Evositeâ€™s first native applications.
 * Worked closely with in-house and remote designers to create an easy-to-use website builder, enabling non-technical users to create, edit and deploy custom websites with zero downtime.
 
 Technologies: PHP, MySQL, TS, JS, Angular, Ionic, Grunt, SASS, Compass, HTML5, CSS3, Nginx, Python, Java, Swift.
@@ -169,8 +169,8 @@ Memberships
 Professional Member, British Computer Society - 990636670        August 2016 - Present
 --------------------------------------------------------------------------------------
 
-Associate Member, Institution of Analysts and Programmers - 24112        August 2016 - Present
-----------------------------------------------------------------------------------------------
+Member, Institution of Analysts and Programmers - 24112        August 2016 - Present
+------------------------------------------------------------------------------------
 
 Student Member, The Institution of Engineering and Technology - 1100639764        October 2017 - Present
 --------------------------------------------------------------------------------------------------------
