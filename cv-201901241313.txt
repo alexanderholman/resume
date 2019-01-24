@@ -81,8 +81,8 @@ Technologies: C++, Python, Bash, Ubuntu, Apache, Postfix, PHP, MySQL, JS, jQuery
 Volunteering
 ============
 
-GDG Community Manager, Google        July 2017 - Present
---------------------------------------------------------
+GDG Community Manager, Google        July 2017 - January 2019
+-------------------------------------------------------------
 
 I organize an manager the local chapter of GDG in Exeter.
 
@@ -97,7 +97,7 @@ Community Leader, Free Code Camp        August 2016 - July 2018
 Managed the local chapter of Free Code Camp in Taunton, assisting and teaching newcomers to web technologies.
 
 Social Media Administrator/Developer, The Vegan Society        November 2017 - Present
------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 I have been managing and helping grow The Vegan Society's presence on both Facebook and Instagram, whilst re-developing (after the original source code was lost) a native application to assist vegan travelers.
 
