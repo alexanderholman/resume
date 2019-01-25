@@ -37,7 +37,7 @@ Developer, Evosite Ltd        June 2014 - June 2016
 ---------------------------------------------------
 
 Mainly front-end work, but full stack when required. Worked with some large clients including LSL Property Service where I having been working on a front end framework expanding on the ever popular Bootstrap framework. Other companies I have worked for under Evosite include Flogas, Redwood Global, Springpak, Westpak, and Bonsoir of London.
-I have vastly increased my skills in server administration (Apache, NGINX, MySQL, remote management and AWS to name a few places where I have seen improvement) and Bash scripting, under the eyes of some very knowledgeable guys.
+I have vastly increased my skills in server administration (Apache, NGINX, MySQL, remote management and AWS to name a few places where I have seen improvement) and Bash scripting, under the eyes of some very knowledgeable people.
 
 * Played a vital role in the creation of ~20 bespoke e-commerce systems in both front-end lead and back-end roles for companies such as LSLPS, Flogas, Nutella, Kinder and a number of primary and secondary schools. 
 * Lead the development of new mobile application offerings, developing the Evosite’s first native applications.
@@ -73,7 +73,7 @@ Freelance, Trading as Stardust Business        September 2008 - September 2011
 ------------------------------------------------------------------------------
 
 * Designed/redesigned and developed over 100 brochure sites for local businesses of many industries, primarily retail, catering, finance, and legal.
-* Developed a simplified CMS based of WordPress to enable management and maintenance in bulk.
+* Developed a simplified CMS based off of WordPress to enable management and maintenance in bulk.
 * Managed and maintained website, database and email hosting for 120 clients, hosted on local servers distributed throughout Teignmouth and Dawlish, located on premises with (12) local businesses to bypass the local top speed of 2Mbps up.
 
 Technologies: C++, Python, Bash, Ubuntu, Apache, Postfix, PHP, MySQL, JS, jQuery, HTML, CSS.
@@ -84,7 +84,7 @@ Volunteering
 GDG Community Manager, Google        July 2017 - January 2019
 -------------------------------------------------------------
 
-I organize an manager the local chapter of GDG in Exeter.
+I organize and managed the local chapter of GDG in Exeter.
 
 Community Leader, Free Code Camp        April 2016 - July 2018
 --------------------------------------------------------------
