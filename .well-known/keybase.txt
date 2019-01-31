@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/alexanderholman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://holman.org.uk
+  * I am alexanderholman (https://keybase.io/alexanderholman) on keybase.
+  * I have a public key with fingerprint 3B8D 20EF 5C93 DA2E 7BEB  9B95 AB13 242D 64BB D30B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b7b5ad0bc8743d43fb29fafe40df8070c3968ab4369f084113f4cc337ce4996a0a",
+      "fingerprint": "3b8d20ef5c93da2e7beb9b95ab13242d64bbd30b",
+      "host": "keybase.io",
+      "key_id": "ab13242d64bbd30b",
+      "kid": "0101b7b5ad0bc8743d43fb29fafe40df8070c3968ab4369f084113f4cc337ce4996a0a",
+      "uid": "7781035423c8d89982c5519e0cc34b19",
+      "username": "alexanderholman"
+    },
+    "merkle_root": {
+      "ctime": 1548970575,
+      "hash_meta": "0fee0244b811fa63b3bf432edf85ace3a0239fd71282d0638720c9375c65f4dd",
+      "seqno": 4673186
+    },
+    "revoke": {
+      "sig_ids": [
+        "d0f12d4990e9137fedf8ccab0291a8202341cdba2b0da29ac0588307521951f30f"
+      ]
+    },
+    "service": {
+      "hostname": "holman.org.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1548970571,
+  "expire_in": 157680000,
+  "prev": "a514b8fbf0d42fc97056d83861c00522278b7087cc19be98ffb8f9b36fa2af36",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMLCAnicrZNbaBxVGMc3ttYkWA2I0T5o7ZSKlzWc28w5Z615EGxrC15IlIak3Z5r
+MtnNznZmdk2ai8QSfZAqainUSsmDoBVEGwu2YG0bEyNEQUFoobFV8BLQCobqg1Lw
+TKwI4qPzMszM//t//+/3zZlZvSLX3KCfCxurV96ba5ifHqvlejr6tw17MtJDXmHY
+K5nlmylrk6TFUqi9ggcggJJKX2ggFaMEa4KtRNwKawjQlgEKFOYBE5LggFvACITY
+EqUwpsoQzgMBhJf3bFjpNXE1Diups8WSaQSM9RXHWiBDpZFccl9IiBFBOiBSagyk
+K+yLkqzChZMiMW1h5N65h+JyvP/Q/8+5a8t2lDIIsE8QVkwzzhlSvg+5AU5PJOSZ
+MDFxRQyYLFXZDIqKNnFfVB4QFW807w2YuFQ2xTiK0oyxSsNMCX3COAU+9d2cIukr
+DphUZOmtMQARIhmEVgRYYmkJRsbl9oUyWACEudUUIoY0CDCjCDiS1FeBb4nWLk5i
+dlcir0ACiiELXILY1KOSyZonYa+jl3iFbk8DC5F20wLDIaY266CUkABxKBhybQhU
+WgokgVsTFwr4jGFAfQS5Dy0G1tsxmjWL66FaNs/WdRXDX9O3RXFvW63kIlXjKI1U
+VM4+pWk1KWRg0qFqpn3KyOJVl6IMK9r9La6ibuIkjCoOlFP+mxnMe2awGsamGGYK
+nwYMuCvrY+rZFnzoAFppgSbIqqwm0AyzACoAfIQQZZICRpWCXBrOrHVqLnFgBRIW
+B/9AhIHLKXqdp0NXEWktNt7o9OmelbmG5tyqa6/JjlGuuanl78P17o7G3BtPLly/
+6/eHt/Z/tv5c8cGRh3YtbsuvLR4Y/K5zpP/thY0d31x69OuhO7pOHpjc/1vrV4+t
+fu2RjVuOTZy4eMXu3dxVWFhz+vbjW0e2/7zTPn7d2luf/7HpltyK+Xf2P9s68Wr7
+4cVf5w41zx6/0P7H2amOj8a9PZ1Hbuu5DHa/sAe2Dl/eN7vyUtcZcDF46f6nn8m/
+fu8rGw41f3rmxbEv22841f3L1NKqqZlPvjg/0TL98uDOg0e7JtcN7/2p5a75E2Ph
+h8fqSzcfeeKeN6duGjn7w/jY9x+v71yitTX3bWrcfq6+bvYCurOuTn7et3ni6Plk
++m5x42LTlsNvbZjrnml6f7LbO7jpgX3jHyzpcPHbU/hPjCqDnQ==
+=rjwx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexanderholman
+
+==================================================================
