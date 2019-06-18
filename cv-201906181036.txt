@@ -13,10 +13,10 @@ This is my first role out of the "agency" environment working on in-house system
 My work involves building from the ground up a new IT department, implementing industry standard solutions to the engineering aspects, and working with other key members proposing and implement new solutions to automate and/or improve efficiency.
 The position is full-stack at the moment; developing front-end applications in TS(JS) with HTML and SASS(CSS), back-end APIs using Node (JS), Python and PHP, writing custom applications in C++, and maintaining local Linux servers and MySQL databases.
 
-* Developed a custom navigation system and API using OSM data achieving an increased routing capacity of 11.5x, using asynchronous techniques to enable routing of up to 27K miles and serving as JSON in sub 300ms.
-* Designed and implemented multiple RESTful APIs replacing external dependencies, allowing increased throughput whilst reducing the cost by 94.167%.
-* Analysed, redesigned the legacy CRM and order fulfillment applications in an OOP and MVC design, introducing code review and extreme programming methodologies such as TDD and continuous integration.
-* Configured, managed and maintained all local and remote Linux/Ubuntu servers, automating repetitive tasks.
+* Developed a custom navigation system and API using OSM data achieving an increased routing capacity of 32x through use of asynchronous techniques.
+* Designed and implemented multiple RESTful APIs replacing external dependencies, allowing increased throughput whilst reducing the cost by 94.167% or (99.813% when cosidering the current throughput).
+* Analysed and redesigned the legacy CRM and order fulfillment applications in an OOP and MVC design, introducing code review and extreme programming methodologies such as TDD and continuous integration.
+* Configure, manage and maintaine all local and remote Linux/Ubuntu servers, automating repetitive tasks.
 * Interview, manage and mentor junior engineers, offering guidance and assistance wherever required.
 
 Technologies: C, C++, Python, Flask, PHP, Laravel, MySQL, TS, Angular, React, Redux, JS, SASS, HTML5, CSS3, Bash.
@@ -36,7 +36,8 @@ Technologies: Python, Flask, PHP, MySQL, TS, Angular, JS, SASS, HTML5, CSS3, Deb
 Developer, Evosite Ltd        June 2014 - June 2016
 ---------------------------------------------------
 
-Mainly front-end work, but full stack when required. Worked with some large clients including LSL Property Service where I having been working on a front end framework expanding on the ever popular Bootstrap framework. Other companies I have worked for under Evosite include Flogas, Redwood Global, Springpak, Westpak, and Bonsoir of London.
+Mainly front-end work, but full stack when required. 
+I worked with some large clients including LSL Property Service where I having been working on a front end framework expanding on the ever popular Bootstrap framework. Other companies I have worked for under Evosite include Flogas, Redwood Global, Springpak, Westpak, and Bonsoir of London.
 I have vastly increased my skills in server administration (Apache, NGINX, MySQL, remote management and AWS to name a few places where I have seen improvement) and Bash scripting, under the eyes of some very knowledgeable people.
 
 * Played a vital role in the creation of ~20 bespoke e-commerce systems in both front-end lead and back-end roles for companies such as LSLPS, Flogas, Nutella, Kinder and a number of primary and secondary schools. 
@@ -48,7 +49,7 @@ Technologies: PHP, MySQL, TS, JS, Angular, Ionic, Grunt, SASS, Compass, HTML5, C
 Developer, Logo Design Ltd        February 2012 - March 2014
 ------------------------------------------------------------
 
-I worked as a full stack dev at Logo.
+I worked as a full stack developer at Logo.
 My largest project was an ebook generator for Symantec, followed by a cross-platform mobile game for SAP.
 I worked on a few SAP microsite, but the majority of my time was took up by the companies website or one of the companies many smaller clients, including: R3MC (Biffa), Plymouth Community Healthcare (NHS), the Police Federation, Alexon brands (Kaliko, Eastex & Minuet Petite), Office Brokers, Gribbles Butchers, Polhawn Fort, Pentillie Castle, Peopil, Ivybridge Town Council, plus many others.
 
@@ -62,7 +63,8 @@ Developer, Clubnet Search Marketing        June 2011 - January 2012
 -------------------------------------------------------------------
 
 I was the sole developer at Clubnet.
-I did some work on the in-house social network and built the company site, as well as running link building campaigns and working oh building many SEO friendly sites for a number of clients, I also created the companies in-house monitoring tools to follow SERPs and link campaign progress automatically.
+I did some work on the in-house social network and built the company site, as well as running link building campaigns and working on building many SEO friendly sites for a number of clients.
+I also created the companies in-house monitoring tools to follow SERPs and link campaign progress automatically.
 
 * Designed and developed multiple systems to record performance and analytical data, previously captured manually.
 * Developed a custom CMS focused on SEO and easily maintained by less technical staff.
@@ -91,8 +93,8 @@ Community Leader, Free Code Camp        April 2016 - July 2018
 
 I managed the local chapter of Free Code Camp in Exeter and Taunton, assisting and teaching newcomers to web technologies.
 
-Social Media Administrator/Developer, The Vegan Society        November 2017 - Present
---------------------------------------------------------------------------------------
+Social Media Administrator/Developer, The Vegan Society        November 2017 - January 2019
+-------------------------------------------------------------------------------------------
 
 I have been managing and helping grow The Vegan Society's presence on both Facebook and Instagram, whilst re-developing (after the original source code was lost) a native application to assist vegan travelers.
 
@@ -104,13 +106,13 @@ I have been bug squashing and contributing to PHP source and the specification u
 Contributor, Open Source
 ------------------------
 
-When I can I do my best to contribute to randomly selected opensource projects, squashing bugs and adding features as required to projects requesting assistance on GitHub.
+When I can; I do my best to contribute to randomly selected opensource projects, squashing bugs and adding features as required to projects requesting assistance on GitHub.
 
 Projects
 ========
 
-Browser-based data encryption/decryption plugin        December 2017 - Present
-------------------------------------------------------------------------------
+Browser-based data encryption/decryption plugin        December 2017 - January 2018
+-----------------------------------------------------------------------------------
 
 * Building a plugin for Chrome to encrypt and send your personal data prior to posting to services such as Facebook and Twitter so that only users with your public key can view your content.
 
@@ -142,13 +144,13 @@ Courses:
 * Web technologies.
 * Object-oriented Java programming.
 * Software development with Java.
-* Software engineering [in progress].
-* Web, mobile and cloud technologies [in progress].
-* Data management and analysis [in progress].
+* Software engineering [awaiting result].
+* Web, mobile and cloud technologies [awaiting result].
+* Data management and analysis [awaiting result].
 * The computing and IT project [in progress].
 
-[Incomplete] LLB Bachelor of Law, Open University        October 2013 - June 2015
----------------------------------------------------------------------------------
+[Part complete] LLB Bachelor of Law, Open University        October 2013 - June 2015
+------------------------------------------------------------------------------------
 
 I decided to switch my degree to a subject more closely related to my field of employment.
 
