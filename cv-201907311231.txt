@@ -144,9 +144,9 @@ Courses:
 * Web technologies.
 * Object-oriented Java programming.
 * Software development with Java.
-* Software engineering [awaiting result].
-* Web, mobile and cloud technologies [awaiting result].
-* Data management and analysis [awaiting result].
+* Software engineering.
+* Web, mobile and cloud technologies.
+* Data management and analysis.
 * The computing and IT project [in progress].
 
 [Transferred] LLB Bachelor of Law, Open University        October 2013 - June 2015
