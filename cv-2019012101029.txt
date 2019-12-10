@@ -129,10 +129,8 @@ Technologies: C++, OpenGL.
 Education
 =========
 
-[In progress] BSc Computing & Information Technology (Software), Open University        September 2016 - June 2019
-------------------------------------------------------------------------------------------------------------------
-
-This course is in progress. I am currently in my 3rd year. The courses completed to date make up the requirements of Foundation Degree in Computing and IT Practice at the Open University (see: http://www.open.ac.uk/courses/qualifications/x15).
+Bachelor of Science (Honours) in Computing and IT (Software), Upper Second-class Honours (2.1), Open University        October 2016 - December 2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Path: Computer science. 
 
