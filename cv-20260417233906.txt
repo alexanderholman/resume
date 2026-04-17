@@ -1,0 +1,132 @@
+Alexander Paul Holman
+=====================
+
+Exeter, England, UK
+Port Talbot, Wales, UK
+07949 982 196
+email@aph.me.uk
+https://github.com/alexanderholman
+
+Profile
+=======
+
+Experienced software engineer and technical leader now undertaking doctoral
+research in physics. I bring a broad background across software engineering,
+systems design, delivery, operations, and technical leadership, with experience
+spanning agency work, in-house engineering, large-scale product environments,
+and mission-driven organisations.
+
+Employment
+==========
+
+PhD Studentship, University of Exeter        September 2024 - Present
+--------------------------------------------------------------------
+
+Doctoral research in physics, building on a strong computational and analytical
+background developed through many years in software engineering.
+
+Lead Software Engineer, Cancer Research UK (CRUK)        February 2020 - September 2024
+----------------------------------------------------------------------------------------
+
+Worked in a lead software engineering role across multiple projects and teams,
+helping shape and define work across legacy, compliance, and greenfield
+efforts. The role combined technical leadership, engineering delivery,
+mentoring, recruitment support, code review, and cross-team problem solving in
+a large mission-driven organisation.
+
+(Senior) Software Engineer (IC3), Yelp        April 2021 - November 2021
+----------------------------------------------------------------------
+
+Worked in Yelp's monetization department at IC3 level. Much of the work is
+subject to NDA, but the role involved a senior engineering position in services
+and monetization, with hands-on development, testing, deployment, and support
+of API endpoints and internal systems, alongside technical guidance for other
+team members.
+
+Lead Software Engineer, Onward Travel Solutions Ltd        August 2016 - February 2020
+--------------------------------------------------------------------------------------
+
+This was my first role out of the agency environment and into in-house systems.
+As part of a small management team I built a new IT department from the ground
+up, implementing industry-standard engineering practices and working with other
+key members to propose and develop new solutions to automate and improve
+efficiency.
+
+The role was diverse, with a strong focus on back-end development and DevOps. I
+built back-end APIs using Python and PHP, wrote custom applications in C++,
+maintained local Unix-based servers and relational databases, and also
+contributed through design and mentorship to front-end applications in
+TypeScript and JavaScript with HTML and SASS.
+
+I also analysed and redesigned legacy CRM and order fulfilment systems around
+OOP and MVC patterns, introduced practices such as code review, TDD, and
+continuous integration, and worked on cost, reliability, and routing
+improvements across the wider platform.
+
+Director / Software Engineer [freelance], Web Design Web Ltd        August 2013 - March 2018
+---------------------------------------------------------------------------------------------
+
+I did work outsourced to me by my previous employer Logo Design Ltd, though I
+mainly worked on projects for smaller local businesses, including restaurants,
+takeaways, shops, accountants, and a care provider.
+
+I also started to provide hosting services, which involved a small amount of
+Linux server administration.
+
+I became increasingly involved in project management and delivery while working
+with outsourced designers and broader client-facing responsibilities.
+
+Developer, Evosite Ltd        June 2014 - July 2016
+---------------------------------------------------
+
+Mainly front-end work, but full stack when required. I worked with some large
+clients including LSL Property Service, where I worked on a front-end framework
+extending Bootstrap. Other companies I worked for under Evosite included
+Flogas, Redwood Global, Springpak, Westpak, and Bonsoir of London.
+
+I significantly expanded my skills in server administration, including Apache,
+NGINX, MySQL, remote management, AWS, and Bash scripting, under the guidance of
+very knowledgeable colleagues.
+
+Developer, Logo Design Ltd        February 2012 - March 2014
+------------------------------------------------------------
+
+I worked as a full stack developer at Logo.
+
+My largest project was an ebook generator for Symantec, followed by a
+cross-platform mobile game for SAP.
+
+I also worked on SAP microsites, the company website, and a wide range of
+client work, including projects connected to the NHS, local government,
+commercial brands, and smaller organisations.
+
+Developer, Clubnet Search Marketing        June 2011 - January 2012
+-------------------------------------------------------------------
+
+I was the sole developer at Clubnet.
+
+I worked on the in-house social network and built the company site, while also
+running link-building campaigns and building SEO-friendly sites for a number of
+clients. I also created the company's in-house monitoring tools to follow SERPs
+and link campaign progress automatically.
+
+Software Engineer (Freelance), WSAuthor Ltd        September 2008 - September 2011
+----------------------------------------------------------------------------------
+
+Earlier freelance work included hosting, brochure-site development, custom CMS
+work, and support for a wide range of local businesses across retail, catering,
+finance, and legal sectors.
+
+Education
+=========
+
+Doctor of Philosophy (PhD), Physics, University of Exeter        September 2024 - September 2028
+------------------------------------------------------------------------------------------------
+
+Current doctoral study in physics.
+
+Bachelor of Science (Honours), Computing and Information Technology (Software), The Open University        September 2016 - December 2019
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Completed a BSc focused on software and computing, complementing extensive
+professional engineering experience.
