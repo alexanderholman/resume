@@ -19,11 +19,11 @@ and mission-driven organisations.
 Employment
 ==========
 
-PhD Studentship, University of Exeter        September 2024 - Present
---------------------------------------------------------------------
+Postgraduate Researcher, University of Exeter studentship        September 2024 - Present
+--------------------------------------------------------------------------------
 
-Doctoral research in physics, building on a strong computational and analytical
-background developed through many years in software engineering.
+Current postgraduate research in physics, building on a strong computational and analytical
+background developed through many years in software engineering. I upgraded from MPhil to PhD in January 2026.
 
 Lead Software Engineer, Cancer Research UK (CRUK)        February 2020 - September 2024
 ----------------------------------------------------------------------------------------
@@ -120,13 +120,35 @@ finance, and legal sectors.
 Education
 =========
 
-Doctor of Philosophy (PhD), Physics, University of Exeter        September 2024 - September 2028
-------------------------------------------------------------------------------------------------
-
-Current doctoral study in physics.
-
 Bachelor of Science (Honours), Computing and Information Technology (Software), The Open University        September 2016 - December 2019
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Completed a BSc focused on software and computing, complementing extensive
 professional engineering experience.
+
+Year one
+- My digital life
+- Technologies in practice
+- Essential mathematics 1
+
+Year two
+- Algorithms, data structures and computability
+- Web technologies
+- Object-oriented Java programming
+- Software development with Java
+
+Year three
+- Software engineering
+- Web, mobile and cloud technologies
+- Data management and analysis
+- The computing and IT project — final project: a routing engine for OTS
+
+Doctor of Philosophy (PhD), Physics, University of Exeter        September 2024 - September 2028
+------------------------------------------------------------------------------------------------
+
+Current doctoral study in physics. Upgraded from MPhil to PhD in January 2026.
+
+Earlier legal study, Open University
+------------------------------------
+
+Initially studied law before transferring toward computing and software.
