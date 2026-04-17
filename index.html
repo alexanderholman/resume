@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Alexander Holman | Physics PhD Candidate, Researcher, and Software Engineer</title>
-    <meta name="description" content="Alexander Holman is a Postgraduate researcher, researcher, and software engineer working across atomistic interface prediction, machine-learned interatomic potentials, and scientific software.">
+    <meta name="description" content="Alexander Holman is a Postgraduate researcher and software engineer working across atomistic interface prediction, machine-learned interatomic potentials, and scientific software.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet">
@@ -36,10 +36,10 @@
         <section id="top" class="hero section">
             <div class="container hero-grid">
                 <div class="hero-copy">
-                    <p class="eyebrow">Postgraduate researcher, researcher, and software engineer</p>
+                    <p class="eyebrow">Postgraduate researcher and software engineer</p>
                     <h1>Alexander Holman</h1>
                     <p class="hero-tagline">Postgraduate researcher working on atomistic interface prediction, machine-learned interatomic potentials, and scientific software for computational materials research.</p>
-                    <p class="hero-subtext">I work at the boundary between condensed matter physics, computational materials science, machine learning, and software engineering. My current research focuses on predicting the stability of material interfaces using machine-learned interatomic potentials and density functional theory, with an emphasis on scalable workflows for realistic interface modelling.</p>
+                    <p class="hero-subtext">I work at the boundary between computational materials physics, condensed matter, crystallography, applied quantum mechanics, quantum chemistry, machine learning, and software engineering. My current research focuses on predicting the stability of material interfaces using machine-learned interatomic potentials and density functional theory, with an emphasis on scalable workflows for realistic interface modelling.</p>
                     <div class="hero-actions">
                         <a class="button button-primary" href="#current-research">View research</a>
                         <a class="button button-secondary" href="#contact">Contact</a>
@@ -77,16 +77,16 @@
         <section id="about" class="section">
             <div class="container narrow-flow">
                 <h2>About</h2>
-                <p>I am a Postgraduate Researcher at the University of Exeter, currently working toward a PhD in Physics after upgrading from MPhil to PhD in January 2026, with a background in professional software engineering. My work sits at the intersection of computational physics, materials modelling, machine learning, and research infrastructure. I am particularly interested in how we can use machine-learned interatomic potentials to accelerate atomistic simulation without losing sight of the physical detail that matters.</p>
+                <p>I am a Postgraduate Researcher at the University of Exeter, currently working toward a PhD in Physics after upgrading from MPhil to PhD in January 2026, with a background in professional software engineering. My work sits at the intersection of computational materials physics, condensed matter, crystallography, applied quantum mechanics, quantum chemistry, machine learning, and research infrastructure. I am particularly interested in how we can use machine-learned interatomic potentials to accelerate atomistic simulation without losing sight of the physical detail that matters.</p>
                 <p>Before moving into full-time research, I built a career in software engineering across web systems, backend platforms, automation, DevOps, and technical leadership. That background still shapes how I approach physics: I care about reproducibility, system design, automation, scaling, and turning complex research processes into reliable computational workflows.</p>
-                <p>My PhD focuses on interface structure prediction and interface stability in solid-state systems, especially group IV heterostructures and related atomistic models. More broadly, I am interested in scientific computing, inverse materials problems, high performance computing, and tools that make difficult computational research more tractable.</p>
+                <p>My PhD focuses on interface structure prediction and interface stability in solid-state systems, especially group IV heterostructures, grain boundaries, crystallographic modelling, and related atomistic systems. More broadly, I am interested in scientific computing, inverse materials problems, high performance computing, and tools that make difficult computational research more tractable.</p>
             </div>
         </section>
 
         <section id="current-research" class="section section-alt">
             <div class="container narrow-flow">
                 <h2>Current Research</h2>
-                <p>My current doctoral research investigates whether machine-learned interatomic potentials, particularly MACE, can reproduce density functional theory derived rankings of interface favourability across semiconductor and heterostructure systems. The core question is not simply whether an ML potential matches absolute DFT energies, but whether it preserves the ordering well enough to become a practical screening tool for large interface search spaces.</p>
+                <p>My current doctoral research investigates whether machine-learned interatomic potentials, particularly MACE, can reproduce density functional theory derived rankings of interface favourability across semiconductor and heterostructure systems. The work sits within computational materials physics and draws on condensed matter, crystallography, applied quantum mechanics, and quantum chemistry. The core question is not simply whether an ML potential matches absolute DFT energies, but whether it preserves the ordering well enough to become a practical screening tool for large interface search spaces.</p>
                 <p>This work focuses on atomistic interfaces generated across a range of group IV systems including carbon, silicon, germanium, and tin. I study how interface energetics, lattice matching, surface orientation, structural relaxation, and chemical composition affect the agreement between machine learning models and first-principles methods.</p>
                 <p>A major theme in the project is methodological honesty. In practice, interface prediction is complicated by relaxation effects, structural sensitivity, and the combinatorial growth of possible configurations. My research therefore combines direct comparison, careful error analysis, and workflow design, rather than treating machine learning as a black-box replacement for DFT.</p>
             </div>
@@ -126,7 +126,7 @@
                 <h2>PhD Project</h2>
                 <p>My PhD centres on the prediction of interface favourability in solid-state systems. Interfaces often determine the behaviour of real devices, but they are difficult to model well because the relevant configuration space grows rapidly with surface choice, relative shift, composition, and defect structure. Density functional theory provides an accurate route to interface energetics, but is too computationally expensive to use naively at large scale.</p>
                 <p>To address this, I investigate whether machine-learned interatomic potentials can preserve DFT-based rankings across many candidate interfaces. This includes generating interface structures, relaxing them under different methods, comparing formation-energy trends, and analysing rank correlation through metrics such as Spearman rho, Kendall tau, top-N overlap, RMSE, and MAE.</p>
-                <p>The broader aim is to contribute to a workflow in which machine learning is used not as a replacement for physics, but as a carefully tested accelerator for interface discovery. This has relevance to semiconductor heterostructures, grain boundaries, and other systems where interface structure strongly influences behaviour.</p>
+                <p>The broader aim is to contribute to a workflow in which machine learning is used not as a replacement for physics, but as a carefully tested accelerator for interface discovery. Longer term, this points toward a more intelligent generative model for interface discovery rather than brute-force combinatorial stacking. This has relevance to semiconductor heterostructures, grain boundaries, and other systems where interface structure strongly influences behaviour.</p>
             </div>
         </section>
 
@@ -137,11 +137,11 @@
                 <ul class="bullet-list">
                     <li>Density functional theory, especially VASP-based workflows for interface relaxation and energy evaluation</li>
                     <li>Machine-learned interatomic potentials, especially MACE, for atomistic prediction and comparative evaluation</li>
-                    <li>Interface generation workflows based on crystallographic matching, Miller planes, supercell construction, and strain minimisation</li>
+                    <li>Interface generation workflows based on crystallographic matching, Miller planes, supercell construction, strain minimisation, and interface registry analysis</li>
                     <li>Python-based scientific tooling for data preparation, automation, analysis, plotting, and workflow control</li>
                     <li>High performance computing environments for large batch calculations and method comparison</li>
                     <li>Statistical comparison methods for ranking quality, including rank correlation and top-N analysis</li>
-                    <li>Reproducible data pipelines for managing thousands of atomistic structures and configuration-specific inputs</li>
+                    <li>Reproducible data pipelines for managing thousands of atomistic structures, configuration-specific inputs, and interface-screening workflows</li>
                 </ul>
             </div>
         </section>
@@ -285,7 +285,7 @@
         <section id="infrastructure" class="section section-alt">
             <div class="container narrow-flow">
                 <h2>Infrastructure and Compute</h2>
-                <p>A practical part of my work involves building and managing the compute environments needed to support large atomistic studies. I regularly work across local Linux systems, GPU-equipped machines, and high performance computing resources. This includes running large batches of simulation jobs, handling structure-specific input generation, monitoring long-running calculations, and designing workflows that can scale from exploratory tests to broader campaigns.</p>
+                <p>A practical part of my work involves building and managing the compute environments needed to support large atomistic studies. I regularly work across local Linux systems, GPU-equipped machines, and high performance computing resources, including Isca at Exeter, ARCHER2, and Isambard 3. This includes running large batches of simulation jobs, handling structure-specific input generation, monitoring long-running calculations, and designing workflows that can scale from exploratory tests to broader campaigns.</p>
                 <p>I am especially interested in the research infrastructure side of computational science: how to coordinate heterogeneous compute resources, make expensive workflows more efficient, and design systems that support repeatable scientific experimentation rather than one-off manual runs.</p>
             </div>
         </section>
@@ -301,7 +301,7 @@
         <section class="section section-alt">
             <div class="container narrow-flow">
                 <h2>Technical Keywords</h2>
-                <p class="keywords">Density functional theory, machine-learned interatomic potentials, MACE, interface stability, heterostructures, grain boundaries, atomistic simulation, VASP, Python, HPC workflows, computational materials science, scientific software, workflow automation, rank correlation, supercell matching</p>
+                <p class="keywords">Density functional theory, machine-learned interatomic potentials, MACE, interface stability, heterostructures, grain boundaries, atomistic simulation, VASP, Python, HPC workflows, computational materials physics, condensed matter, crystallography, applied quantum mechanics, quantum chemistry, scientific software, workflow automation, rank correlation, supercell matching</p>
             </div>
         </section>
 

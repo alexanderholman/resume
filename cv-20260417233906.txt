@@ -11,10 +11,13 @@ Profile
 =======
 
 Experienced software engineer and technical leader now undertaking doctoral
-research in physics. I bring a broad background across software engineering,
-systems design, delivery, operations, and technical leadership, with experience
-spanning agency work, in-house engineering, large-scale product environments,
-and mission-driven organisations.
+research in physics. My current work sits within computational materials physics
+and draws on condensed matter, crystallography, applied quantum mechanics,
+quantum chemistry, and machine-learned atomistic simulation. I bring a broad
+background across software engineering, systems design, delivery, operations,
+and technical leadership, with experience spanning agency work, in-house
+engineering, large-scale product environments, and mission-driven
+organisations.
 
 Employment
 ==========
@@ -152,3 +155,9 @@ Earlier legal study, Open University
 ------------------------------------
 
 Initially studied law before transferring toward computing and software.
+
+
+Infrastructure and Compute
+==========================
+
+A practical part of my work involves building and managing the compute environments needed to support large atomistic studies. I actively work across local Linux systems, GPU-equipped machines, and high performance computing resources, including Isca at Exeter, ARCHER2, and Isambard 3. This includes running large batches of simulation jobs, handling structure-specific input generation, monitoring long-running calculations, and designing workflows that can scale from exploratory tests to broader campaigns.
