@@ -149,12 +149,19 @@ Year three
 Doctor of Philosophy (PhD), Physics, University of Exeter        September 2024 - September 2028
 ------------------------------------------------------------------------------------------------
 
-Current doctoral study in physics. Upgraded from MPhil to PhD in January 2026.
+Current doctoral study in computational materials science, interface prediction,
+machine learning for atomistic simulation, density functional theory,
+condensed matter, and crystallographic modelling. Upgraded from MPhil to PhD
+in January 2026.
 
-Earlier legal study, Open University
-------------------------------------
+My upgrade report set out a research direction focused on accelerating
+interface discovery by moving beyond brute-force combinatorial stacking toward
+more intelligent interface-generation and screening workflows. It also
+formalised the role of DFT, MACE, ARTEMIS, and related tooling in building
+scalable, physically credible interface datasets.
 
-Initially studied law before transferring toward computing and software.
+I am currently writing a paper on single versus dual axis analysis, with a focus
+on Si Sigma3 112 and 111.
 
 
 Infrastructure and Compute
